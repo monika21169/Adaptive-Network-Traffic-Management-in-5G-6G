@@ -1,6 +1,7 @@
 # Adaptive-Network-Traffic-Management-in-5G-6G
 
 Problem Statement
+
 In the context of 5G and 6G networks, the increasing demand for bandwidth and the variability of network traffic present significant challenges for network operators. These challenges include:
 
 1. Dynamic Traffic Patterns: Traffic can vary significantly throughout the day, requiring a responsive approach to bandwidth allocation.
@@ -10,6 +11,7 @@ In the context of 5G and 6G networks, the increasing demand for bandwidth and th
 To address these challenges, there is a need for an adaptive network traffic management system that can intelligently allocate bandwidth based on real-time traffic conditions.
 
 Solution
+
 The proposed solution utilizes Reinforcement Learning (RL) to create an Adaptive Network Traffic Management System. This system:
 
 1. Learns optimal bandwidth management strategies through interactions with the network environment.
